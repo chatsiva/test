@@ -4,6 +4,11 @@ hello world
 chages mde in local
 =======
 changes made in remote
+<<<<<<< HEAD
 >>>>>>> 697060f28127b195b7f810a9ca099d8c15ce08d7
 
 changes made in local222
+=======
+
+changes made in remote2
+>>>>>>> 5237cafd0466f5378d88d72c1576352458e28535
