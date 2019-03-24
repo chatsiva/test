@@ -15,3 +15,4 @@ changes made in local3
 changes made in remote2
 changes made in remote3
 >>>>>>> efd044087a3946824e809b9615da16695950c5b1
+remote4
