@@ -1,3 +1,7 @@
 m
 hello world
+<<<<<<< HEAD
 chages mde in local
+=======
+changes made in remote
+>>>>>>> 697060f28127b195b7f810a9ca099d8c15ce08d7
